@@ -19,23 +19,33 @@ $('a').attr('target','_blank');
 
 <style>
   
-p{
-  margin-top: 1.3rem;
-  }
-  
-h3 {
-    margin-top: 2rem;
-} 
+  h1 {
+    margin-top: 3rem;
+    font-size: 2rem;
+}  
+
 
 h2 {
     margin-top: 2rem;
-    font-size: 2.4rem;
+    font-size: 1.6rem;
 } 
 
-h1 {
-    margin-top: 3rem;
-    font-size: 3rem;
-}  
+  
+h3 {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+} 
+
+
+p{
+  margin-top: 2.6rem;
+  font-size:1.2rem;
+  line-height: 3rem;
+  }
+
+
+
+
 
 </style>
 
