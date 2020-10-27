@@ -40,7 +40,7 @@ h3 {
 p{
   margin-top: 2.6rem;
   font-size:1.2rem;
-  line-height: 3rem;
+  line-height: 2.2rem;
   }
 
 
