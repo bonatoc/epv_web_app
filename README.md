@@ -74,9 +74,9 @@ M. Bonato a effectué **133 sauvegardes** (back-ups) des codes source du front-e
 
  - 2014 : **49 sauvegardes** 
  - 2015 : **46 sauvegardes** 
- - 2016 : **16 sauvegardes**
+ - 2016 : **15 sauvegardes**
  - 2017 : **12 sauvegardes**
- - 2018 : **9 sauvegardes**
+ - 2018 : **10 sauvegardes**
  - 2019 : **1 sauvegarde**
 
 
